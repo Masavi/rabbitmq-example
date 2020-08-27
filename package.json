@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Masavi/rabbitmq-example/issues"
   },
-  "homepage": "https://github.com/Masavi/rabbitmq-example#readme"
+  "homepage": "https://github.com/Masavi/rabbitmq-example#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
 }
