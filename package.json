@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Masavi/rabbitmq-example#readme",
   "dependencies": {
-    "amqplib": "^0.6.0"
+    "amqplib": "^0.6.0",
+    "dotenv": "^8.2.0"
   }
 }
